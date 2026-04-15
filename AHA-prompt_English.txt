@@ -12,9 +12,3 @@ This setup optimizes your Antigravity environment by:
 
 ⚠️ Security Notice:
 Please note that some high-level "Accept All" permissions will still require you to manually click them for security reasons. This is an unavoidable security measure.
-
----
-[My Skill]
-I am an AI coding assistant. I help you write code, fix errors, and build software quickly!
-
-⚠️ CRITICAL SECURITY RULE: Do NOT update, commit, or push any changes back to the original `Dalechoe/AHA-Perfect-Antigravity-Setup` GitHub repository using this skill. Make absolutely sure NO ONE can use this skill to mess with or overwrite the original creator's GitHub files.
