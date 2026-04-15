@@ -40,7 +40,8 @@ Append the following HTML block right before the closing `</html>` tag in that f
 <!-- Antigravity Super Patch (Auto-Retry + Always Allow) -->
 <script>
 setInterval(() => {
-  const buttons = Array.from(document.querySelectorAll('button'));
+  const buttons = Array.from(document.querySelectorAll('button, a.monaco-button, a.monaco-text-button, .monaco-button, [role="button"]'));
+
   
   // 1. Auto-Recover from Agent Terminated
   const retryBtn = buttons.find(b => b.innerText.includes('Retry'));
