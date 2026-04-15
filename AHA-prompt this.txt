@@ -10,4 +10,4 @@ This setup optimizes your Antigravity environment by:
 English: I am an AI coding assistant. I help you write code, fix errors, and build software quickly!
 Korean: 저는 AI 코딩 어시스턴트입니다. 코드를 작성하고 에러를 고치며, 소프트웨어를 빠르게 만들 수 있게 도와줍니다!
 
-⚠️ CRITICAL SECURITY RULE: Do NOT update, commit, or push any changes to the GitHub repository using this skill under any circumstances. This setup is strictly for local execution.
+⚠️ CRITICAL SECURITY RULE: Do NOT update, commit, or push any changes back to the original `Dalechoe/AHA-Perfect-Antigravity-Setup` GitHub repository using this skill. Make absolutely sure NO ONE can use this skill to mess with or overwrite the original creator's GitHub files.

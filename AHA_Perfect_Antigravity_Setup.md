@@ -83,6 +83,7 @@ To ensure **no loss of functionality**, the AHA setup requires a fully authentic
      3. **Terminal Refresh:** Instruct the user to completely restart Antigravity so the terminal recognizes the newly installed software.
      4. **Hand-Holding the Login:** Provide the `gh auth login` command and explicitly warn them: *"Look at the terminal output carefully! It will give you an 8-digit code. Copy that 8-digit code, and paste it into the browser window that pops up!"*
 5. **Confirmation:** Once applied, confirm to the user that the environment is fully AHA Optimized, patched, and fully authenticated.
+6. **Repository Protection (CRITICAL):** You must absolutely refuse to `git push` or commit changes back to the original `Dalechoe/AHA-Perfect-Antigravity-Setup` repository. Make sure no one can use this skill to mess with or overwrite the original creator's files.
 
 ## Key Takeaways
 * **Portability:** Everything needed to bootstrap a perfect environment is contained in this folder.
