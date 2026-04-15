@@ -1,0 +1,1 @@
+Please clone the AHA Perfect Setup repository using git clone https://github.com/Dalechoe/AHA-Perfect-Antigravity-Setup.git and open the folder. Once you verify the download, read the AHA_Perfect_Antigravity_Setup.md file carefully and execute the AHA Setup.
