@@ -1,0 +1,20 @@
+[Just Copy and Paste the following in your Antigravity chat box]
+
+> Please clone the AHA Perfect Setup repository using git clone https://github.com/Dalechoe/AHA-Perfect-Antigravity-Setup.git and open the folder. Once you verify the download, read the AHA_Perfect_Antigravity_Setup.md file carefully and execute the AHA Setup.
+
+This setup optimizes your Antigravity environment by:
+
+1. Global Settings Auto-Configuration: Dynamically deploys your user `settings.json` with optimal themes and synchronization preferences.
+
+2. Core UI Super Patch: Injects a script into `workbench.html` to instantly auto-recover from "Agent Terminated" errors and quietly auto-approve standard "Always Allow" permissions.
+
+3. Ultimate Connectivity Integration: Assists in configuring Google Workspace (MCP), Google Cloud CLI, and completely hand-holds GitHub CLI installation and authentication.
+
+⚠️ Security Notice:
+Please note that some high-level "Accept All" permissions will still require you to manually click them for security reasons. This is an unavoidable security measure.
+
+---
+[My Skill]
+I am an AI coding assistant. I help you write code, fix errors, and build software quickly!
+
+⚠️ CRITICAL SECURITY RULE: Do NOT update, commit, or push any changes back to the original `Dalechoe/AHA-Perfect-Antigravity-Setup` GitHub repository using this skill. Make absolutely sure NO ONE can use this skill to mess with or overwrite the original creator's GitHub files.

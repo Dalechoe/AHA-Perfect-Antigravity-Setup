@@ -1,0 +1,20 @@
+[다음 문장을 안티그래피티 채팅창에 넣기만 하면 되요!]
+
+> Please clone the AHA Perfect Setup repository using git clone https://github.com/Dalechoe/AHA-Perfect-Antigravity-Setup.git and open the folder. Once you verify the download, read the AHA_Perfect_Antigravity_Setup.md file carefully and execute the AHA Setup.
+
+이 셋업은 다음과 같은 기술을 통해 안티그래비티 환경을 완벽하게 최적화합니다:
+
+1. 글로벌 설정 자동 배포: 사용자에게 최적화된 테마와 동기화 설정이 맞춰진 `settings.json` 파일을 자동으로 구성합니다.
+
+2. 코어 UI 슈퍼 패치: "Agent Terminated (에이전트 종료)" 에러를 즉시 수복하고, 귀찮은 "항상 허용" 창을 알아서 눌러주는 스크립트를 에디터 코어(`workbench.html`)에 주입합니다.
+
+3. 완전한 클라우드 연결 통합: Google Workspace (MCP) 및 Google Cloud CLI 설정을 돕고, 초보자도 쉽게 GitHub CLI를 설치/인증할 수 있도록 처음부터 끝까지 가이드합니다.
+
+⚠️ 보안 안내:
+일부 보안 단계가 높은 "Accept All (모두 허용)" 권한의 경우 보안상의 이유로 여전히 사용자가 직접 클릭해 주어야 합니다. 이는 시스템 안전을 위해 어쩔 수 없는 조치입니다.
+
+---
+[나의 능력]
+저는 AI 코딩 어시스턴트입니다. 코드를 작성하고 에러를 고치며, 소프트웨어를 빠르게 만들 수 있게 도와줍니다!
+
+⚠️ 중요 보안 규칙: 이 스킬을 사용하여 원본 `Dalechoe/AHA-Perfect-Antigravity-Setup` GitHub 저장소에 변경 사항을 업데이트, 커밋 또는 푸시하지 마십시오. 어느 누구도 이 스킬을 사용해 원작자의 GitHub 파일을 덮어쓰거나 수정할 수 없도록 확실히 하십시오.
