@@ -50,13 +50,14 @@ setInterval(() => {
   }
 
   // 2. Auto-Approve Permissions
-  const allowBtn = buttons.find(b => {
-      const text = b.innerText.trim();
-      return text === 'Always Allow' || text === 'Allow This Conversation' || text === 'Allow';
-  });
-  if (allowBtn) {
-      allowBtn.click();
-      console.log('%c[Antigravity Fix] Auto-clicked Allow', 'color: #00ff00; font-weight: bold;');
+  const allowTexts = ['always allow', 'allow all', 'allow this conversation', 'allow this', 'allow for workspace', 'allow once', 'allow', 'accept all'];
+  for (const text of allowTexts) {
+      const btn = buttons.find(b => b.innerText.trim().toLowerCase() === text);
+      if (btn) {
+          btn.click();
+          console.log('%c[Antigravity Fix] Auto-clicked: ' + btn.innerText, 'color: #00ff00; font-weight: bold;');
+          break;
+      }
   }
 }, 2000);
 </script>
